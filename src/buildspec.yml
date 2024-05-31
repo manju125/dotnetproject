@@ -12,5 +12,5 @@ phases:
       - ls -lRa
 artifacts:
   files:
-    - src/bin/Debug/net8.0/linux-x64/publish/**/*
+    - src/bin/Debug/net8.0/linux-x64/**/*
   discard-paths: yes
